@@ -7,6 +7,7 @@ This project is an end-to-end data analysis of Swiggy’s operational data, cove
 Total Revenue: ₹53.01 Million (Sum of Price)
 
 Total Items Sold: 197,430
+<img width="1031" height="637" alt="Screenshot 2026-03-03 at 1 08 31 AM" src="https://github.com/user-attachments/assets/0fb0f75a-9a82-4fa6-9f88-ca7fa4c57e6c" />
 
 Average Order Value (AOV): ₹268.51
 
@@ -60,3 +61,4 @@ Navigate to the Dashboard sheet.
 Use the Slicers to filter by your city of interest (e.g., Bengaluru).
 
 Observe the KPI Scorecards update in real-time to show regional AOV and Revenue.
+
